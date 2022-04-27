@@ -4,4 +4,5 @@ Thompson Sampling is a Bayesian approach to multi-armed bandits. This notebook r
 
 For a more extensive review of the theory, checkout [A Tutorial on Thompson Sampling](https://arxiv.org/abs/1707.02038) by Russo et al., 2017.
 
-Interesting reference implementation: https://github.com/Anton1o-I/thompson-sampling
+### Interesting reference implementations:
+https://github.com/Anton1o-I/thompson-sampling
